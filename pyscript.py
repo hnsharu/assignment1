@@ -1,5 +1,6 @@
 #!/bin/python
 # This is an awesome Python script 
 
-print('Hello, World!')
+print('Hi, World!')
+print(1)
 
